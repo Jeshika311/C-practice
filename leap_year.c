@@ -6,7 +6,7 @@ int main(){
     scanf("%d" , &x);
 
     if(x%4==0 )
-        printf("It is leap year according century leap year rule");
+        printf("It is leap year");
     
     else
         printf("It is not a leap year");
