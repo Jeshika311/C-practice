@@ -7,7 +7,8 @@ int main()
     scanf("%c" , &alphabet);
 
     if(!isalpha(alphabet)){
-        printf("Invalid Input,please enter a alphabet\n");
+        printf("Invalid Input\n");
+        printf("Please enter a alphabet\n");
     }
     else{
 
